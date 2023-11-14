@@ -203,7 +203,7 @@ private void RegisterEvents(OAMBannerView ad)
 }
 ```
 
-[oamerror.md](oamerror.md "mention")
+[oam-error-code.md](oam-error-code.md "mention")
 
 ### 배너 뷰를 화면에 올리기
 

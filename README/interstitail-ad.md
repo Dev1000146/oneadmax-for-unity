@@ -172,7 +172,7 @@ private void RegisterEvents(OAMInterstitial ad)
 }
 ```
 
-[oamerror.md](oamerror.md "mention")
+[oam-error-code.md](oam-error-code.md "mention")
 
 ### 전면 광고 만들기
 

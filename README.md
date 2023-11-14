@@ -170,25 +170,25 @@ void OnApplicationQuit()
 배너 광고는 앱의 일부를 차지하는 직사각형 광고를 표시합니다.\
 위치를 설정하고 시간을 설정하여 자동으로 새로고침할 수 있습니다.
 
-[undefined.md](README/undefined.md "mention")
+[banner-view.md](README/banner-view.md "mention")
 
 ### 전면 광고
 
 전면 광고는 앱의 화면 전체를 덮는 광고입니다.\
 완료 되었거나 유저의 의해 중단 되었을 경우 앱의 화면으로 전환됩니다.
 
-[undefined-1.md](README/undefined-1.md "mention")
+[interstitail-ad.md](README/interstitail-ad.md "mention")
 
 ### 전면 동영상 광고
 
 전면 광고와 동일하지만 이미지가 아닌 영상이 노출됩니다.\
 영상을 로드하는 과정이 `전면 광고`보다 오래 소요될 수 있습니다.
 
-[undefined-2.md](README/undefined-2.md "mention")
+[interstitial-video-ad.md](README/interstitial-video-ad.md "mention")
 
 ### 보상형 동영상 광고
 
 보상을 제공하는 비디오 광고 입니다.\
 비디오 광고 종료시 Complete event callback 으로 광고 참여 완료 정보를 전달합니다.
 
-[undefined-3.md](README/undefined-3.md "mention")
+[rewarded-video-ad.md](README/rewarded-video-ad.md "mention")

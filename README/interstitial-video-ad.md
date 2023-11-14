@@ -129,7 +129,7 @@ private void RegisterEvents(OAMInterstitialVideo ad)
 }
 ```
 
-[oamerror.md](oamerror.md "mention")
+[oam-error-code.md](oam-error-code.md "mention")
 
 ### 전면 비디오 광고 만들기
 
