@@ -79,10 +79,6 @@ Assets/OneStoreCorpPlugins/com.oneadmax.global/Editor/ONEAdMaxDependencies.xml
 </manifest>
 ```
 
-## 미디에이션 설정
-
-[<mark style="color:red;">// 미디에이션 설정 방법 링크</mark>](https://wiki.onestorecorp.com/display/ONEIAA/ONE+AdMax+SDK#ONEAdMaxSDK-%EB%AF%B8%EB%94%94%EC%97%90%EC%9D%B4%EC%85%98\(Mediation\))
-
 ## SDK에 적용된 사항들
 
 ### Permission
@@ -95,13 +91,6 @@ Assets/OneStoreCorpPlugins/com.oneadmax.global/Editor/ONEAdMaxDependencies.xml
     ...
 </manifest>
 ```
-
-### 네트워크 보안 구성
-
-Android 9부터 일반 텍스트 트래픽(암호화되지 않은 HTTP)은 기본적으로 차단됩니다. 이로 인해 미디어 캐싱 기능이 영향을 받게 되며 사용자 경험과 광고 매출도 영향을 받을 수 있습니다.\
-`ONEAdMax`는 이러한 영향을 완화하기 위해 SDK 내에 네트워크 보안 구성 파일을 포함하고 있습니다.
-
-이와 관련된 자세한 내용은 [안드로이드 네트워크 보안 구성 페이지](https://developer.android.com/training/articles/security-config?hl=ko)를 참고하시기 바랍니다.
 
 ## SDK 초기화
 
@@ -160,6 +149,10 @@ void OnApplicationQuit()
     ONEAdMaxClient.Destroy();
 }
 ```
+
+## 미디에이션 설정
+
+[<mark style="color:red;">// 미디에이션 설정 방법 링크</mark>](https://wiki.onestorecorp.com/display/ONEIAA/ONE+AdMax+SDK#ONEAdMaxSDK-%EB%AF%B8%EB%94%94%EC%97%90%EC%9D%B4%EC%85%98\(Mediation\))
 
 ## 광고 형식 선택하기
 
