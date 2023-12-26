@@ -6,4 +6,4 @@
   * [전면 비디오 광고 구현하기](README/interstitial-video-ad.md)
   * [보상형 비디오 광고 구현하기](README/rewarded-video-ad.md)
   * [OAMError 에러 코드](README/oam-error-code.md)
-  * [Migrating 0.9.7 to 0.9.8](README/migrating-0.9.7-to-0.9.8.md)
+  * [Migrating from v0.9.7 to v0.9.8](README/migrating-from-v0.9.7-to-v0.9.8.md)
